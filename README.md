@@ -1,1 +1,1 @@
-# Ejercicios_Practicas
+# Repositorio_Ejercicios
